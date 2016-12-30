@@ -1,0 +1,276 @@
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="ru">
+	<head>
+		<title>Карточка дела (версия для печати). Электронное правосудие</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<meta name="robots" content="all" />
+
+		<link rel="stylesheet" type="text/css" href="../../Content/Static/Css/common/common.css" />
+		<link rel="stylesheet" type="text/css" href="../../Content/Static/Css/pages/card.css" />
+		<link rel="stylesheet" type="text/css" href="../../Content/Static/Css/pages/card_print.css" />
+		<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="../../Content/Static/Css/common/common.ie.css"><![endif]-->
+		<!--[if IE 8]><link rel="stylesheet" type="text/css" href="../../Content/Static/Css/common/common.ie8.css"><![endif]-->
+		<script type="text/javascript" src="../../Content/Static/js/libs/jquery.old.js"></script>
+		<script type="text/javascript" src="../../Content/Static/js/config.js"></script>
+		<script type="text/javascript" src="../../Content/Static/js/common/common.js"></script>
+
+		<script type="text/javascript" src="../../Content/Static/js/libs/jquery.json.js"></script>
+		<script type="text/javascript" src="../../Content/Static/js/controllers/card_print.js"></script>
+		<!--[if lte IE 6]><script type="text/javascript" src="../../Content/Static/js/ie6_warning.js"></script><![endif]-->
+	</head>
+	<body id="print" class="print-chrono">
+		<div class="b-print-container">
+			<div class="b-card-modes">
+				<ul>
+					<li class="compact">
+						<a href="#compactMode">Компактная карточка</a>
+					</li>
+					<li class="chrono active">
+						<a href="#chronoMode">Только хронология</a>
+					</li>
+					    <li class="full">
+						    <a href="#fullMode">Полная карточка</a>
+					    </li>
+				</ul>
+				<a class="b-print" href="javascript:window.print()"><i class="b-icon"></i>Печатать</a>
+			</div>
+
+			<div class="b-case-header g-ec" id="b-case-header">
+				<h1>№ А76-32338/2016</h1>
+				<ul class="crumb g-ec">
+                        <li class="item">
+	    					<span><input type="hidden" value="b94f5712-fc97-463b-9959-efb11a07bf46" />А76-32338/2016 | </span>
+    					</li>
+				</ul>
+				<h2 id="case-category"><i class="b-icon civil"><i></i></i>экономические споры по гражданским правоотношениям</h2>
+			</div>
+
+			<div class="gr-content" id="gr_case_partps">
+				<h3 id="case_partps" class="case_partps">
+					<i class="b-icon"><i></i></i>
+					Участники дела
+				</h3>
+				<table class="b-case-info">
+					<thead>
+						<tr>
+							<td class="plaintiffs">
+								<div class="container">
+									<i class="b-icon"><i></i></i>
+									Истцы
+								</div>
+							</td>
+							<td class="defendants">
+								<div class="container">
+									<i class="b-icon"><i></i></i>
+									Ответчики
+								</div>
+							</td>
+							<td class="third">
+								<div class="container">
+									<i class="b-icon"><i></i></i>
+									Третьи лица
+								</div>
+							</td>
+							<td class="others">
+								<div class="container">
+									<i class="b-icon"><i></i></i>
+									Иные лица
+								</div>
+							</td>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="plaintiffs first">
+													<div class="container">
+														<ul>
+                                                                <li>
+																<span class="js-rollover b-newRollover">
+																	ООО &quot;Сельскохозяйственный комплекс -Профит&quot;
+																	<span class="js-rolloverHtml" style="display: none;">457441, ул. Комсомольская, 8 А-7, п. Первомайский, Агаповский район, Челябинская область</span>
+																</span>
+															</li>
+														</ul>
+													</div>
+												</td>
+												<td class="defendants">
+													<div class="container">
+														<ul>
+                                                                <li>
+																<span class="js-rollover b-newRollover">
+																	Администрация Первомайского сельского поселения Агаповского муниципального района Челябинской области
+																	<span class="js-rolloverHtml" style="display: none;">457441, ул. Центральная, д.26, п. Первомайский , Агаповский район, Челябинская область</span>
+																</span>
+															</li>
+														</ul>
+													</div>
+												</td>
+												<td class="third">
+													<div class="container">
+														<ul>
+														</ul>
+													</div>
+												</td>
+												<td class="others">
+													<div class="container">
+														<ul>
+                                                        </ul>
+													</div>
+												</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+			<div id="gr_case_judges page-break" class="gr-content">
+				<h3 id="case_judges" class="case_judges">
+					<i class="b-icon"><i></i></i>
+					Суды и судьи
+				</h3>
+				<table class="b-case-info">
+                    <colgroup>
+                    </colgroup>
+					<thead>
+						<tr>
+
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+			<div class="b-case-chrono-header">
+				<h3 class="chrono_list">
+					<i class="b-icon civil">
+						<i></i>
+					</i>
+					Хронология рассмотрения
+				</h3>
+			</div>
+
+                <div class="b-chrono-item-header page-break">
+				<img src="../../Content/Static/img/t/instance-header-bg_print.gif" width="100%" height="100%" />
+				<div class="container">
+					<div class="b-chrono-cols g-ec">
+						<div class="l-col">
+							<strong>
+								Первая инстанция
+							</strong>
+							<span class="b-reg-date"></span>
+						</div>
+						<div class="r-col">
+							<h4 class="b-case-instance">
+								<strong>А76-32338/2016</strong>
+								<span class="instantion-name">
+									АС Челябинской области
+								</span>
+							</h4>
+							<h2 class="b-case-result">
+                            </h2>
+							<input type="hidden" class="js-instanceId" value="5484af87-a522-413c-a849-6222c02ae794" />
+						</div>
+					</div>
+				</div>
+			</div>
+                <div class="b-chrono-items-container page-break">
+                    <div class="b-chrono-item b-chrono-cols page-break g-ec">
+					    <div class="l-col">
+						    <p class="case-date">29.12.2016</p>
+						    <p class="case-type">Ходатайства</p>
+					    </div>
+					    <div class="r-col">
+						    <span class="additional-info"> </span>
+						    <p class="case-subject">
+				                <span title="ООО &quot;Сельскохозяйственный комплекс -Профит&quot;">
+					                ООО &quot;Сельскохозяйственный комплекс -Профит&quot;
+				                </span>
+						    </p>
+						    <h2 class="b-case-result">
+                                    Ходатайство об отсрочке уплаты госпошлины
+                                
+                            </h2>
+					    </div>
+				    </div>
+                    <div class="b-chrono-item b-chrono-cols page-break g-ec">
+					    <div class="l-col">
+						    <p class="case-date">29.12.2016</p>
+						    <p class="case-type">Заявление</p>
+					    </div>
+					    <div class="r-col">
+						    <span class="additional-info">Заявление № б/н от 29.12.2016. Сумма исковых требований 579624,68 </span>
+						    <p class="case-subject">
+				                <span title="ООО &quot;Сельскохозяйственный комплекс -Профит&quot;">
+					                ООО &quot;Сельскохозяйственный комплекс -Профит&quot;
+				                </span>
+						    </p>
+						    <h2 class="b-case-result">
+                                    Исковое заявление
+                                
+                            </h2>
+					    </div>
+				    </div>
+			</div>
+			<div class="b-print-ghost"></div>
+		</div>
+        <div class="b-print-footer"></div>
+
+		<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+	var gaModel = 'UA-12768122-1,/Kad/PrintCard'.split(','),
+		account = gaModel[0],
+		gaUrl = gaModel[1];
+
+	if (account) {
+		ga('create', account, 'auto');
+		ga('send', 'pageview', gaUrl);
+	}
+
+	ga('create', 'UA-86206369-1', 'auto', 'FrontEndTracker');
+	ga('FrontEndTracker.send', 'pageview', gaUrl);
+
+	window.onerror = function (msg, url, line, col, e) {
+		var date = new Date(),
+			utcDate = new Date(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate(), date.getUTCHours(), date.getUTCMinutes());
+
+		utcDate.setHours(utcDate.getHours() + 3);
+
+		var moscowDate = utcDate,
+			dd = moscowDate.getDate().toString(),
+			mm = (moscowDate.getMonth() + 1).toString(),
+			yy = (moscowDate.getFullYear()).toString().slice(-2),
+			hh = moscowDate.getHours().toString(),
+			MM = moscowDate.getMinutes().toString(),
+			dateString = [dd,mm,yy].join('.') + ' ' + [hh,MM].join(':');
+
+		if (account) {
+			ga('send',
+			   'event',
+			   'JS Error',
+			   msg,
+			   dateString + '|' + location.href + '|' + url + ':' + line + ':' + col + '|' + navigator.userAgent);
+		}
+
+		ga('FrontEndTracker.send',
+		   'event',
+		   'JS Error',
+		   msg,
+		   dateString + '|' + location.href + '|' + url + ':' + line + ':' + col + '|' + navigator.userAgent);
+	};
+</script>
+	</body>
+</html>
